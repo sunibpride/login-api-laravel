@@ -8,6 +8,7 @@ Login a user with given credentials either positive or negative
 
 before running the commands, set the database name in .env according to phpmyadmin
 
+run the commands on the terminal :
 1. php artisan migrate
 2. php artisan db:seed
 3. php artisan serve
